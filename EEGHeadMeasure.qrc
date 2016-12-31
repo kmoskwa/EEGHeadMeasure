@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/EEGHeadMeasure">
+        <file>EEGHeadMeasure.xml</file>
+        <file alias="EEGImage.png">Resources/1302a.png</file>
+        <file alias="DefaultStyle.qss">Resources/DefaultStyle.qss</file>
+        <file alias="ZUTIcon.png">Resources/zut.png</file>
+    </qresource>
+</RCC>
